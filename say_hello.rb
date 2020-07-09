@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def say_hello (Megatron)
-  puts "Hello #{Megatron}"
+def say_hello (megatron)
+  puts "Hello #{megatron}"
 end
